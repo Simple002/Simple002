@@ -5,7 +5,7 @@ Hello, I'm John Scaly!
 💻 Junior Frontend Developer | Student | Future Full-Stack Engineer
 
 I'm a passionate young developer from Kazakhstan 🇰🇿, currently learning web development and building fun, useful, and creative projects.  
-I enjoy exploring technologies like **JavaScript**, **Python**, **Flask**, and **FastAPI**.
+I enjoy exploring technologies like **JavaScript**, **Python**, **HTML/CSS**, and **Django/Node.js**.
 
 ---
 
@@ -21,8 +21,7 @@ I enjoy exploring technologies like **JavaScript**, **Python**, **Flask**, and *
 - 🖥️ HTML, CSS, JavaScript (Frontend)
 - ✌  UI,UX design 
 - 😎 Use Figma
-- 🐍 Python (Flask, FastAPI, other frameworks)
-- 🎮 Pygame, Game Dev Basics
+- 🐍 Python (FastAPI,SymPy,Django,BS4,other frameworks)
 - 👽 English B1-B2
 - 📈 Website layout
 
