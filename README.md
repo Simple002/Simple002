@@ -4,9 +4,8 @@ Hello, I'm John Scaly!
 
 💻 Junior Frontend Developer | Student | Future Full-Stack Engineer
 
-I'm a passionate young developer from Kazakhstan 🇰🇿, currently learning web development and building fun, useful, and creative projects.  
-I enjoy exploring technologies like **JavaScript**, **Python**, **HTML/CSS**, and **Django/Node.js**.
-
+I'm a passionate young developer from Kazakhstan 🇰🇿.
+I love designing beautiful websites with HTML, CSS, and JavaScript. I enjoy making modern and responsive user interfaces.
 ---
 
 ## 🚀 My Goals
