@@ -1,6 +1,6 @@
 ![Snake animation dark](https://github.com/Simple002/snk/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
-Hello, I'm Arman Tynybaev!
+Hello, I'm John Scaly!
 
 💻 Junior Frontend Developer | Student | Future Full-Stack Engineer
 
