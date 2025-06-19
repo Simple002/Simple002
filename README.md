@@ -11,7 +11,7 @@ For the second year in a row, I’ve been delivering projects where clean archit
 I don’t just build interfaces — I create complete, user-friendly, and responsive solutions.  
 Attention to detail, precise layout, and well-thought-out logic are essential parts of every project I work on.**
 
-**I use modern technologies such as HTML, CSS, JavaScript, TypeScript, React, Vue, Tailwind, and more.  
+**I use modern technologies such as HTML, CSS, JavaScript, React, and more.  
 Meeting deadlines, maintaining high standards, and never compromising on quality — that’s how I work.**
 
 **I’m not new to the field. I understand the demands of the market and deliver results —  
