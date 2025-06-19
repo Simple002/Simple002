@@ -34,7 +34,7 @@ precisely, consistently, and professionally.**
 - 👽 English B1-B2
 - 📈 Website layout
 
------
+------
 
 ## 📫 How to Reach Me
 
