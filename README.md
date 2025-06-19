@@ -24,7 +24,7 @@ I love designing beautiful websites with HTML, CSS, and JavaScript. I enjoy maki
 - 👽 English B1-B2
 - 📈 Website layout
 
----
+-----
 
 ## 📫 How to Reach Me
 
